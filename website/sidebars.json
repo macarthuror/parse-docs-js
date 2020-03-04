@@ -1,0 +1,41 @@
+{
+  "js": {
+    "JavaScript": [
+      "js/main",
+      "js/objects",
+      "js/queries",
+      "js/live-queries",
+      "js/users",
+      "common/sessions",
+      "js/roles",
+      "js/files",
+      "js/promises",
+      "js/geo-points",
+      "js/local-datastore",
+      "js/push-notifications",
+      "js/config",
+      "js/analytics",
+      "common/data",
+      "common/relations",
+      "js/schema",
+      "js/handling-errors",
+      "common/security",
+      "common/performance",
+      {
+        "type": "subcategory",
+        "label": "My Example Subcategory",
+        "ids": [
+          "common/performance"
+        ]
+      }
+    ],
+    "Community Guides": [
+      "common/guides"
+    ]
+  },
+  "tutorials": {
+    "Tutorials": [
+      "tutorials/main"
+    ]
+  }
+}
